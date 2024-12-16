@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID cf5165c0-fcdc-44ec-8238-5e5cb5b879a0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PrecipitationLevel</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::21:50:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::21:50:22</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">12.14.2024::21:50:22</weakCGTime>
+			<strongCGTime type="a">12.14.2024::21:48:59</strongCGTime>
+			<_defaultComposite type="s">GUID 455383ec-57bb-4242-87f1-c62e87d7495f</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 80f20120-97f6-48ee-8d04-9856586cadfc</value>
+				<value>GUID 455383ec-57bb-4242-87f1-c62e87d7495f</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 80f20120-97f6-48ee-8d04-9856586cadfc</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PrecipitacionAmount</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::21:50:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::21:50:22</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\lang2058\kerning2\f0\fs28 The SMSWTD shall classify the amount of precipitation as low when it is under 4 mm/h, \lang1033 as medium when it is over 4 mm/h and below 10 mm/h, as high when it is between 10 mm/h to 50 mm/h and as extremely high when it is over 50 mm/h\lang2058 .\lang1033\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 455383ec-57bb-4242-87f1-c62e87d7495f</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

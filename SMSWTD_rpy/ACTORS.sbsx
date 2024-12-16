@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 8a293112-bdc3-4017-99bb-6fda86193628</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ACTORS</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::13:20:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::13:20:55</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">12.13.2024::13:20:55</weakCGTime>
+			<strongCGTime type="a">12.13.2024::13:19:5</strongCGTime>
+			<_defaultComposite type="s">GUID 08bb9ff7-3d50-4846-bfe0-72e442a7fe98</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 08bb9ff7-3d50-4846-bfe0-72e442a7fe98</value>
+				<value>GUID c8a604f2-8acb-4cab-a017-b10105629293</value>
+				<value>GUID 5a9e444f-cede-4955-8879-51c90bf43d9c</value>
+				<value>GUID cefc24ee-defb-43e9-a54c-3760d9078a21</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 08bb9ff7-3d50-4846-bfe0-72e442a7fe98</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IActor type="e">
+			<_id type="a">GUID c8a604f2-8acb-4cab-a017-b10105629293</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Civilians</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::13:19:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::13:19:53</_modifiedTime>
+			<weakCGTime type="a">12.13.2024::13:19:53</weakCGTime>
+			<strongCGTime type="a">12.13.2024::13:19:53</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IActor>
+		<IActor type="e">
+			<_id type="a">GUID 5a9e444f-cede-4955-8879-51c90bf43d9c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RegulationAuthorities</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::13:20:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::13:20:48</_modifiedTime>
+			<weakCGTime type="a">12.13.2024::13:20:48</weakCGTime>
+			<strongCGTime type="a">12.13.2024::13:20:48</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IActor>
+		<IActor type="e">
+			<_id type="a">GUID cefc24ee-defb-43e9-a54c-3760d9078a21</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">UniversityResearcher</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::13:21:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::13:21:24</_modifiedTime>
+			<weakCGTime type="a">12.13.2024::13:21:24</weakCGTime>
+			<strongCGTime type="a">12.13.2024::13:21:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IActor>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

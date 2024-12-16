@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 0bbf687a-45f7-469c-a100-a39c3a16f24e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">StormDetect</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:51:47</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Requirments_PKG.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG</_hsubsystem>
+					<_hname type="a">Requirments_PKG</_hname>
+					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2024::20:51:47</_modifiedTime>
+			<weakCGTime type="a">12.14.2024::20:51:47</weakCGTime>
+			<strongCGTime type="a">12.14.2024::20:49:39</strongCGTime>
+			<_defaultComposite type="s">GUID 6ea4e717-4810-41e9-aed3-aa666585684a</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID f4002a44-d011-4753-9e8b-22d4718eff8b</value>
+				<value>GUID 6ea4e717-4810-41e9-aed3-aa666585684a</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID f4002a44-d011-4753-9e8b-22d4718eff8b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">StormDetection</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:48:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:48:59</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall detect storms in real time.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID c58a6c69-be0f-497e-93f2-64a550afdd3b</value>
+				<value>GUID 22cbd712-1652-4840-a058-4a9d567182b4</value>
+				<value>GUID 58b3578c-eee1-4a35-b104-5ebf1573d79c</value>
+			</AggregatesList>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c58a6c69-be0f-497e-93f2-64a550afdd3b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SeverityCalculation</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:47:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:47:4</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall determine the severity of the detected storm.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID 0bfa8b8c-1e1c-44b2-9eae-b43dbc9438f8</value>
+				<value>GUID 0ae9edb1-e06f-4174-a5c0-025b302cc5f0</value>
+				<value>GUID 440b6837-e4d7-4a9d-a2cc-9ba12b24f523</value>
+			</AggregatesList>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0bfa8b8c-1e1c-44b2-9eae-b43dbc9438f8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CalculateWinspeedSeverity</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:44:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:44:29</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall determine the severity of the windspeed\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0ae9edb1-e06f-4174-a5c0-025b302cc5f0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DeterminePrecipitationLevel</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:45:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:45:20</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall determine the precipitation level.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 440b6837-e4d7-4a9d-a2cc-9ba12b24f523</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DetermineStormStage</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:47:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:47:4</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall determine the stage of the storm\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 22cbd712-1652-4840-a058-4a9d567182b4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ImpactCalculation</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:40:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:40:6</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall determine the expected impact of the detected storm.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 58b3578c-eee1-4a35-b104-5ebf1573d79c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DetermineRecActions</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:39:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:39:55</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall determine the recommended actions based on the storm severity and impact.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 6ea4e717-4810-41e9-aed3-aa666585684a</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

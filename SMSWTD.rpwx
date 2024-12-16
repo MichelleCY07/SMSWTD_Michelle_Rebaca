@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>*</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<CGEMdiWorkspace type="e">
+			<stubList type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</stubList>
+			<isLoadOnDemand type="a">0</isLoadOnDemand>
+			<myViewsWithID type="c">
+				<IRPYRawContainer type="e">
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">32</m_nLeft>
+								<m_nTop type="a">32</m_nTop>
+								<m_nRight type="a">1079</m_nRight>
+								<m_nBottom type="a">260</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hname type="a">Model1</_hname>
+								<_hid type="a">GUID ec63e662-6c47-4caf-980b-9e0a9de302c6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1004 156 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">769</m_nRight>
+								<m_nBottom type="a">430</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\DataGathering.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG::FunctionalRequirments::DataGathering</_hsubsystem>
+								<_hname type="a">DataGatheringRequirments_Diagram</_hname>
+								<_hid type="a">GUID 3865b3d8-1a47-4d01-b19e-c30c2ed7a59a</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-16 0 </_UpLeft>
+						<_DownRight type="a">1799 895 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">2</m_showCmd>
+								<m_ptMinPositionX type="a">199</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">309</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">160</m_nLeft>
+								<m_nTop type="a">160</m_nTop>
+								<m_nRight type="a">1017</m_nRight>
+								<m_nBottom type="a">590</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\FunctionalRequirments.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG::FunctionalRequirments</_hsubsystem>
+								<_hname type="a">Functional_Requirments_Diagram_IONEx</_hname>
+								<_hid type="a">GUID ae97afda-d634-4f0d-a102-dd4fcbddd5ba</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1628 716 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">32</m_nLeft>
+								<m_nTop type="a">32</m_nTop>
+								<m_nRight type="a">801</m_nRight>
+								<m_nBottom type="a">462</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\PublicNotification.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG::FunctionalRequirments::PublicNotification</_hsubsystem>
+								<_hname type="a">PublicNotificationsRequirments_Diagram</_hname>
+								<_hid type="a">GUID 01a2397e-bb36-4c4a-b8d4-72450bf4cbf7</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-260 142 </_UpLeft>
+						<_DownRight type="a">950 738 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">64</m_nLeft>
+								<m_nTop type="a">64</m_nTop>
+								<m_nRight type="a">833</m_nRight>
+								<m_nBottom type="a">494</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\StormDetection.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG::FunctionalRequirments::RiskAnalisis::StormDetection</_hsubsystem>
+								<_hname type="a">StormDetectionRequirments_Diagram</_hname>
+								<_hid type="a">GUID 39ce9fe5-c7df-4d43-a36e-59157f6a0cc6</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 60 </_UpLeft>
+						<_DownRight type="a">936 657 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">128</m_nLeft>
+								<m_nTop type="a">128</m_nTop>
+								<m_nRight type="a">985</m_nRight>
+								<m_nBottom type="a">558</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\NonFunctionalRequirments.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG::NonFunctionalRequirments</_hsubsystem>
+								<_hname type="a">Non_Functional_Requirments_Diagram</_hname>
+								<_hid type="a">GUID 2998198d-9d18-4d19-bf7f-97eeadb3dbc1</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">875 385 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">2</m_showCmd>
+								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">588</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">64</m_nLeft>
+								<m_nTop type="a">64</m_nTop>
+								<m_nRight type="a">889</m_nRight>
+								<m_nBottom type="a">518</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\Requirments_PKG.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG</_hsubsystem>
+								<_hname type="a">Requirments_PKG</_hname>
+								<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-167 -30 </_UpLeft>
+						<_DownRight type="a">1132 799 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
+								<m_nLeft type="a">128</m_nLeft>
+								<m_nTop type="a">128</m_nTop>
+								<m_nRight type="a">985</m_nRight>
+								<m_nBottom type="a">558</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\SMSWTD_rpy\SMSWTD_System_Context.sbsx</_hfilename>
+								<_hsubsystem type="a">SMSWTD_System::Analysis::SMSWTD_System_Context</_hsubsystem>
+								<_hname type="a">SMSWTD_System_Context_Diagram</_hname>
+								<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">10 110 </_UpLeft>
+						<_DownRight type="a">824 468 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+				</IRPYRawContainer>
+			</myViewsWithID>
+			<_fullName type="a">C:\Users\20245165\Documents\Lectures\SysML_Projects\SMSWTD_Michelle_Rebaca\SMSWTD\SMSWTD</_fullName>
+			<m_SearchScopeList type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</m_SearchScopeList>
+			<bUsingBrowserCustomView type="a">1</bUsingBrowserCustomView>
+			<bApplyOnDiagrams type="a">0</bApplyOnDiagrams>
+			<liCustomViewIDs type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</liCustomViewIDs>
+			<mapOslcRmCollections type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</mapOslcRmCollections>
+			<favoritesItem type="e">
+				<generation type="a">0</generation>
+				<name type="a">Favorites</name>
+				<idOrFolder type="a">folder</idOrFolder>
+			</favoritesItem>
+			
+		</CGEMdiWorkspace>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

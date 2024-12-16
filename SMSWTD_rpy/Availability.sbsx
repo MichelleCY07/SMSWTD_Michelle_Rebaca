@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID c0a67542-440a-4bfd-a7d8-bb14a2de61af</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Availability</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::9:40:56</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Requirments_PKG.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG</_hsubsystem>
+					<_hname type="a">Requirments_PKG</_hname>
+					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::9:41:22</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::9:40:56</weakCGTime>
+			<strongCGTime type="a">12.14.2024::19:11:5</strongCGTime>
+			<_defaultComposite type="s">GUID 78c39a74-4d66-4c98-8587-f2ebc18a4cd5</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 982fd2f1-d05f-4be1-8f0c-f7a6db173f43</value>
+				<value>GUID 78c39a74-4d66-4c98-8587-f2ebc18a4cd5</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 982fd2f1-d05f-4be1-8f0c-f7a6db173f43</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Availability</_name>
+			<Annotations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Annotations>
+			<_modifiedTimeWeak type="a">12.16.2024::9:40:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::9:40:56</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fi-360\li720\sa160\sl252\slmult1\kerning2\f0\fs28 The SMSWTD shall be available for civillians and researchers.\par%0D
+\pard\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">320</reqID>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 78c39a74-4d66-4c98-8587-f2ebc18a4cd5</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

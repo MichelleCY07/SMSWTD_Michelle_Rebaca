@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID c9873ace-b35e-47cb-a726-3ea8e9a2767a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TsunamiPrediction</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::9:36:59</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Requirments_PKG.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG</_hsubsystem>
+					<_hname type="a">Requirments_PKG</_hname>
+					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.16.2024::9:41:22</_modifiedTime>
+			<weakCGTime type="a">12.16.2024::9:36:59</weakCGTime>
+			<strongCGTime type="a">12.14.2024::21:2:19</strongCGTime>
+			<_defaultComposite type="s">GUID fd889c10-6d7b-4e3f-8358-92975f115e57</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID c4fb6bc6-2d85-449b-b248-2067874f1fbf</value>
+				<value>GUID fd889c10-6d7b-4e3f-8358-92975f115e57</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID c4fb6bc6-2d85-449b-b248-2067874f1fbf</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TsunamiPrediction</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::9:36:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::9:36:59</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall integrate the tectonic shifts and vibrations, water pressure and the water flow direction into predictive models, assessing the likelihood, intensity, and potential impact of a tsunami.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">204</reqID>
+			<AggregatesList type="e">
+				<value>GUID 0ba786e0-de75-47bd-bc35-93bda15eb9cb</value>
+				<value>GUID c6d95bf9-2829-42db-99e2-d8894cf0ea4d</value>
+			</AggregatesList>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0ba786e0-de75-47bd-bc35-93bda15eb9cb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TsunamyPredictionModelAccuracy</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::9:4:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::9:4:59</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall use a tsunami predicting model (machine learning algorithms and statistical models) with an accuracy of 90%25.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">312</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c6d95bf9-2829-42db-99e2-d8894cf0ea4d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TsunamiPredictionTime</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::9:36:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::9:36:59</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fi-360\li720\sa160\sl252\slmult1\kerning2\f0\fs28 The SMSWTD shall detect a tsunami at least 16h before it occurs.\par%0D
+\pard\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">3413</reqID>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID fd889c10-6d7b-4e3f-8358-92975f115e57</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

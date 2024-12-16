@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 0e11d8ef-a920-47b4-ba4a-4c3d155a374a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TsunamiDetection</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:21:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Requirments_PKG.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG</_hsubsystem>
+					<_hname type="a">Requirments_PKG</_hname>
+					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2024::20:33:15</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">12.14.2024::20:21:24</weakCGTime>
+			<strongCGTime type="a">12.14.2024::19:55:9</strongCGTime>
+			<_defaultComposite type="s">GUID 34fef3d8-0b4a-44a7-bf86-37cdd2fbde33</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 1908b3d5-7a8d-40d2-86f6-dbe872e455ef</value>
+				<value>GUID cfd35a47-5425-4618-b69c-1a02b93d951f</value>
+				<value>GUID eb211692-b916-4b57-a3d7-c06d961b111b</value>
+				<value>GUID 34fef3d8-0b4a-44a7-bf86-37cdd2fbde33</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 1908b3d5-7a8d-40d2-86f6-dbe872e455ef</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ReceiveTectonicShiftsVibrations</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:18:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:18:30</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall receive the tectonic shifts and vibrations beneath the ocean bed from the oceanic disruptions measurement system.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID cfd35a47-5425-4618-b69c-1a02b93d951f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ReceiveWaterPessure</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:19:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:19:48</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall receive the water pressure measurement from the oceanic disruptions measurement system.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID eb211692-b916-4b57-a3d7-c06d961b111b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ReceiveWaterFlow</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::20:21:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::20:21:24</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall receive the water flow direction from the oceanic disruptions measurement system.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 34fef3d8-0b4a-44a7-bf86-37cdd2fbde33</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

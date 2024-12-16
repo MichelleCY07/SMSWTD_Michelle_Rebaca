@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 1eb4dfec-5347-4795-b223-64670d78f375</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">StormMeassurment</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::22:38:9</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Requirments_PKG.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Requirments_PKG</_hsubsystem>
+					<_hname type="a">Requirments_PKG</_hname>
+					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.14.2024::22:38:9</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<weakCGTime type="a">12.14.2024::22:38:9</weakCGTime>
+			<strongCGTime type="a">12.14.2024::21:3:1</strongCGTime>
+			<_defaultComposite type="s">GUID ceb3590a-ced9-432e-b66a-17492800572f</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d8f497e4-8397-4a4b-8222-8adbddd197c7</value>
+				<value>GUID f00983f3-0b7e-4ec3-82df-0c5a671b4fdc</value>
+				<value>GUID 4b1151c9-864c-4d4d-8d7a-42c361bf55a6</value>
+				<value>GUID c8630b37-f7e5-4c15-b9f6-e8d0f5ea9720</value>
+				<value>GUID 219742aa-a4d2-4b51-9249-e077268da6e8</value>
+				<value>GUID 83eb1477-cd4e-4159-9489-ffb33892d7b3</value>
+				<value>GUID ceb3590a-ced9-432e-b66a-17492800572f</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID d8f497e4-8397-4a4b-8222-8adbddd197c7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ReceiveWindSpeed</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::21:6:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::21:6:32</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall receive wind speed from the satellite system every &lt;tbd&gt; seconds.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID f00983f3-0b7e-4ec3-82df-0c5a671b4fdc</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ReceiveWindDirection</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::21:6:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::21:6:45</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall receive wind direction from the satellite system every &lt;tbd&gt; seconds.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 4b1151c9-864c-4d4d-8d7a-42c361bf55a6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ReceivePrecipitationAmount</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::21:10:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::21:10:8</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall gather the amount of precipitation from the aircraft storm measurment szstem every &lt;tbd&gt; seconds.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c8630b37-f7e5-4c15-b9f6-e8d0f5ea9720</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ReceiveStormLocation</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::21:9:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::21:9:0</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall receive latitude, longitude, diameter and altitude information from the satellite system every &lt;tbd&gt; system.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 219742aa-a4d2-4b51-9249-e077268da6e8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ReceivePrecipitatioType</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::21:7:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::21:7:7</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs28 The SMSWTD shall receive the type of precipitation from the satellite system every &lt;tbd&gt; seconds.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 83eb1477-cd4e-4159-9489-ffb33892d7b3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">StormPredictingModelAccuracy</_name>
+			<_modifiedTimeWeak type="a">12.14.2024::22:38:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.14.2024::22:38:9</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall use a storm predicting model (machine learning algorithms and statistical models) with an accuracy of 90%25.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID ceb3590a-ced9-432e-b66a-17492800572f</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
