@@ -12,7 +12,7 @@
 			<_id type="a">GUID 0bbf687a-45f7-469c-a100-a39c3a16f24e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">StormDetection</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:56:55</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.16.2024::11:46:40</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::10:56:55</_modifiedTime>
+			<_modifiedTime type="a">12.16.2024::11:46:40</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">12.16.2024::10:56:55</weakCGTime>
+			<weakCGTime type="a">12.16.2024::11:46:40</weakCGTime>
 			<strongCGTime type="a">12.14.2024::21:4:24</strongCGTime>
 			<_defaultComposite type="s">GUID 6ea4e717-4810-41e9-aed3-aa666585684a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -40,8 +40,8 @@
 			<_id type="a">GUID f4002a44-d011-4753-9e8b-22d4718eff8b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">StormDetection</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:56:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:56:55</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.16.2024::11:46:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:46:40</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall detect storms severity and recommended actions.\kerning0\f1\fs20\par%0D
@@ -51,7 +51,6 @@
 			<AggregatesList type="e">
 				<value>GUID c58a6c69-be0f-497e-93f2-64a550afdd3b</value>
 				<value>GUID 22cbd712-1652-4840-a058-4a9d567182b4</value>
-				<value>GUID 4aa84dfb-e30d-4af4-8e02-dbb209c34538</value>
 				<value>GUID 871db865-5861-40ec-868e-7201c0e08824</value>
 				<value>GUID 219742aa-a4d2-4b51-9249-e077268da6e8</value>
 				<value>GUID 5cc56d71-c91f-4a8e-b0b9-57a3bc0f4a1f</value>
@@ -66,14 +65,14 @@
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
 			</OwnedDependencies>
-			<_modifiedTimeWeak type="a">12.16.2024::10:23:44</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:23:44</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.16.2024::11:46:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:46:40</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall determine the severity of the detected storm.\kerning0\f1\fs20\par%0D
 }%0D
 </_body>
-			<reqID type="a">208</reqID>
+			<reqID type="a">246</reqID>
 			<AggregatesList type="e">
 				<value>GUID 0bfa8b8c-1e1c-44b2-9eae-b43dbc9438f8</value>
 				<value>GUID 0ae9edb1-e06f-4174-a5c0-025b302cc5f0</value>
@@ -121,73 +120,62 @@
 			<_id type="a">GUID 22cbd712-1652-4840-a058-4a9d567182b4</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ImpactCalculation</_name>
-			<_modifiedTimeWeak type="a">12.14.2024::23:26:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.14.2024::23:26:7</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.16.2024::11:46:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:46:31</_modifiedTime>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall determine the expected impact of the detected storm.\kerning0\f1\fs20\par%0D
 }%0D
 </_body>
-			<reqID type="a">207</reqID>
-		</IRequirement>
-		<IRequirement type="e">
-			<_id type="a">GUID 4aa84dfb-e30d-4af4-8e02-dbb209c34538</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">ReceiveCloudAltitude</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:4:35</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:4:35</_modifiedTime>
-			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall receive cloud altitude information from the satellite system every &lt;tbd&gt; seconds.\kerning0\f1\fs20\par%0D
-}%0D
-</_body>
+			<reqID type="a">245</reqID>
 		</IRequirement>
 		<IRequirement type="e">
 			<_id type="a">GUID 871db865-5861-40ec-868e-7201c0e08824</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">StormDetectionTime</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:4:53</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:4:53</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.16.2024::11:46:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:46:12</_modifiedTime>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall meassure the storm severity in real time.\kerning0\f1\fs20\par%0D
 }%0D
 </_body>
-			<reqID type="a">344</reqID>
+			<reqID type="a">241</reqID>
 		</IRequirement>
 		<IRequirement type="e">
 			<_id type="a">GUID 219742aa-a4d2-4b51-9249-e077268da6e8</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">IdentifyPrecipitationType</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:4:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:4:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.16.2024::11:46:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:46:24</_modifiedTime>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall identify the type of precipitation (rain, snow, hail).\kerning0\f1\fs20\par%0D
 }%0D
 </_body>
-			<reqID type="a">3411</reqID>
+			<reqID type="a">244</reqID>
 		</IRequirement>
 		<IRequirement type="e">
 			<_id type="a">GUID 5cc56d71-c91f-4a8e-b0b9-57a3bc0f4a1f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DetectionAvailability</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:5:37</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:5:37</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.16.2024::11:46:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:46:16</_modifiedTime>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\fi-360\li720\sa160\sl252\slmult1\kerning2\f0\fs28 The SMSWTD should perform storm severity calculation with at least one  source of information (satelite or aircraft ).\par%0D
 \pard\kerning0\f1\fs20\par%0D
 }%0D
 </_body>
-			<reqID type="a">324</reqID>
+			<reqID type="a">242</reqID>
 		</IRequirement>
 		<IRequirement type="e">
 			<_id type="a">GUID 58b3578c-eee1-4a35-b104-5ebf1573d79c</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DetermineRecActions</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:6:8</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:6:8</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.16.2024::11:46:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::11:46:20</_modifiedTime>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall determine the recommended actions based on the storm severity and impact.\kerning0\f1\fs20\par%0D
 }%0D
 </_body>
-			<reqID type="a">206</reqID>
+			<reqID type="a">243</reqID>
 		</IRequirement>
 		<IDiagram type="e">
 			<_id type="a">GUID 58c43345-13f1-481f-92bb-7422afbe9252</_id>
@@ -726,8 +714,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:58:22</_modifiedTime>
-			<_lastModifiedTime type="a">12.16.2024::10:58:22</_lastModifiedTime>
+			<_modifiedTime type="a">12.16.2024::11:46:0</_modifiedTime>
+			<_lastModifiedTime type="a">12.16.2024::11:46:0</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -770,7 +758,7 @@
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">11</elementList>
+			<elementList type="a">15</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -794,6 +782,10 @@
 				<value>GUID a6231f1f-3430-484f-a06b-2aa6d1823524</value>
 				<value>GUID 5a4182e5-7f50-451c-9edf-297ee30e71d8</value>
 				<value>GUID 33a5faa8-d8c9-472d-b0e6-dd3f9ed83662</value>
+				<value>GUID cf7ced15-a209-41b2-b54d-9bdb0097447a</value>
+				<value>GUID 2c9c45a2-d2d1-436c-9228-05bfb6a7905a</value>
+				<value>GUID fc0268c8-cf72-4f98-91ea-8457b50a6bad</value>
+				<value>GUID 49a972e8-bb03-4043-ac75-328b9b61cc0a</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -878,7 +870,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">3.95833 0 0 3.63636 20 20 </m_transform>
+			<m_transform type="a">6.14815 0 0 3.63636 -260 20 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1624,6 +1616,290 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">573 -5 </m_SourcePort>
+			<m_TargetPort type="a">1084 550 </m_TargetPort>
+		</CGIContainArrow>
+		<CGIAnnotation type="e">
+			<_id type="a">GUID cf7ced15-a209-41b2-b54d-9bdb0097447a</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">176</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 871db865-5861-40ec-868e-7201c0e08824</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID ae2c8ee4-3449-4d39-b7fa-c724cfc427e6</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">StormDetectionTime</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.188192 0 0 0.142613 -200 329.838 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
+			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=23%25,77%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">1</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
+			<AggregatesList type="e">
+				<value>GUID 354545c0-65ad-4a54-ba0e-b2d84bdfc8a1</value>
+				<value>GUID ead64979-e5ec-4835-8f4e-c2ce409550fd</value>
+			</AggregatesList>
+		</CGIAnnotation>
+		<CGICompartment type="e">
+			<_id type="a">GUID 354545c0-65ad-4a54-ba0e-b2d84bdfc8a1</_id>
+			<m_name type="a">ID</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID ead64979-e5ec-4835-8f4e-c2ce409550fd</_id>
+			<m_name type="a">Specification</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGIContainArrow type="e">
+			<_id type="a">GUID 2c9c45a2-d2d1-436c-9228-05bfb6a7905a</_id>
+			<m_type type="a">204</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID cf7ced15-a209-41b2-b54d-9bdb0097447a</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 2dc16bf3-dcaa-4eac-8040-fa907308e6e3</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">4 -250 409  -250 288  500 288  500 186  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">0 555 </m_SourcePort>
+			<m_TargetPort type="a">1084 550 </m_TargetPort>
+		</CGIContainArrow>
+		<CGIAnnotation type="e">
+			<_id type="a">GUID fc0268c8-cf72-4f98-91ea-8457b50a6bad</_id>
+			<m_type type="a">176</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c58a6c69-be0f-497e-93f2-64a550afdd3b</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID ae2c8ee4-3449-4d39-b7fa-c724cfc427e6</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">SeverityCalculation</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.129151 0 0 0.128205 942 325.615 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 3  0 1095  1084 1095  1084 3  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=32%25,68%25&gt;
+&lt;frame name=IDTextCompartment&gt;
+&lt;frame name=SpecificationTextCompartment&gt;</frameset>
+			<_iTempdisplayTextFlag type="a">1</_iTempdisplayTextFlag>
+			<m_bIsBoxStyle type="a">1</m_bIsBoxStyle>
+			<AggregatesList type="e">
+				<value>GUID 40265120-f684-48fb-882e-8d947b58a281</value>
+				<value>GUID 94a2ed68-9a36-4809-930f-53eea95d559d</value>
+			</AggregatesList>
+		</CGIAnnotation>
+		<CGICompartment type="e">
+			<_id type="a">GUID 40265120-f684-48fb-882e-8d947b58a281</_id>
+			<m_name type="a">ID</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID 94a2ed68-9a36-4809-930f-53eea95d559d</_id>
+			<m_name type="a">Specification</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGIContainArrow type="e">
+			<_id type="a">GUID 49a972e8-bb03-4043-ac75-328b9b61cc0a</_id>
+			<m_type type="a">204</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID fc0268c8-cf72-4f98-91ea-8457b50a6bad</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 2dc16bf3-dcaa-4eac-8040-fa907308e6e3</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_arrow type="a">1 943 186  </m_arrow>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">8 -5 </m_SourcePort>
 			<m_TargetPort type="a">1084 550 </m_TargetPort>
 		</CGIContainArrow>
 		<IClass type="e">

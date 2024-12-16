@@ -72,8 +72,8 @@
 								<_hid type="a">GUID 3865b3d8-1a47-4d01-b19e-c30c2ed7a59a</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-16 0 </_UpLeft>
-						<_DownRight type="a">1799 895 </_DownRight>
+						<_UpLeft type="a">1101 292 </_UpLeft>
+						<_DownRight type="a">2069 769 </_DownRight>
 						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -168,8 +168,8 @@
 								<_hid type="a">GUID 39ce9fe5-c7df-4d43-a36e-59157f6a0cc6</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 60 </_UpLeft>
-						<_DownRight type="a">936 657 </_DownRight>
+						<_UpLeft type="a">146 91 </_UpLeft>
+						<_DownRight type="a">1082 688 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
