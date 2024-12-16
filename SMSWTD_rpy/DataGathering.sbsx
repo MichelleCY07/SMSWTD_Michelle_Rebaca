@@ -12,7 +12,7 @@
 			<_id type="a">GUID 4ff16773-2c14-4b27-959e-c2ab3e630e63</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DataGathering</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::15:2:22</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.16.2024::15:18:53</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::15:2:22</_modifiedTime>
+			<_modifiedTime type="a">12.16.2024::16:28:11</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">12.16.2024::15:2:22</weakCGTime>
+			<weakCGTime type="a">12.16.2024::15:18:53</weakCGTime>
 			<strongCGTime type="a">12.16.2024::10:43:15</strongCGTime>
 			<_defaultComposite type="s">GUID bf39ab9c-7919-4b13-83e6-b10c26f62aeb</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -39,8 +39,8 @@
 			<_id type="a">GUID b1c9a03a-4602-4f0f-8ccf-e8ce05394c7a</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DataGathering</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::15:0:19</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::15:0:19</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.16.2024::15:18:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::15:18:53</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall receive infromation from the satelite system, the oceanic disruption system and the aircraft storm measurment system.\kerning0\f1\fs20\par%0D
@@ -56,9 +56,9 @@
 		<IRequirement type="e">
 			<_id type="a">GUID dfbb01a5-4f8b-4525-b6ba-7ea271dcbfe7</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">AiscraftMeasInformation</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::14:58:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::14:58:55</_modifiedTime>
+			<_name type="a">AircraftMeasInformation</_name>
+			<_modifiedTimeWeak type="a">12.16.2024::15:18:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.16.2024::15:18:53</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall receive the amount of precipitation and air temperature from the aircraft storm measurement systems.\kerning0\f1\fs20\par%0D
@@ -523,8 +523,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::15:2:42</_modifiedTime>
-			<_lastModifiedTime type="a">12.16.2024::15:2:42</_lastModifiedTime>
+			<_modifiedTime type="a">12.16.2024::15:19:22</_modifiedTime>
+			<_lastModifiedTime type="a">12.16.2024::15:19:22</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1021,7 +1021,7 @@
 			<m_pParent type="s">GUID 87760666-ef0a-422f-806a-c9ba057583cb</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">AiscraftMeasInformation</m_str>
+					<m_str type="a">AircraftMeasInformation</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2919,7 +2919,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.127547 0 0 0.104575 -173.745 263.105 </m_transform>
+			<m_transform type="a">0.163862 0 0 0.0840335 -214.672 367.084 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
