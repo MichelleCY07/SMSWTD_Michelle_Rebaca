@@ -12,10 +12,10 @@
 			<_id type="a">GUID f84796d4-4f79-4483-82b2-fde52281985e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Use_Cases</_name>
-			<_modifiedTimeWeak type="a">12.17.2024::12:56:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.17.2024::12:59:4</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.17.2024::13:18:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:18:1</_modifiedTime>
 			<_lastID type="a">13</_lastID>
-			<weakCGTime type="a">12.17.2024::12:56:57</weakCGTime>
+			<weakCGTime type="a">12.17.2024::13:18:1</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:29:9</strongCGTime>
 			<_defaultComposite type="s">GUID 4e584c6b-3b08-434d-9c8a-2f7025b9391e</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -425,8 +425,8 @@
 			</_properties>
 			<_name type="a">UseCaseDiagram</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.17.2024::13:4:9</_modifiedTime>
-			<_lastModifiedTime type="a">12.17.2024::13:4:9</_lastModifiedTime>
+			<_modifiedTime type="a">12.17.2024::13:18:34</_modifiedTime>
+			<_lastModifiedTime type="a">12.17.2024::13:18:34</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -610,7 +610,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">8.96296 0 0 5.30303 -141 20 </m_transform>
+			<m_transform type="a">8.91667 0 0 5.30303 -131 20 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -976,7 +976,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">266246</m_drawBehavior>
-			<m_transform type="a">0.188857 0 0 0.0490196 -121.378 340.873 </m_transform>
+			<m_transform type="a">0.188857 0 0 0.0490196 -121.378 310.873 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1158,7 +1158,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">266246</m_drawBehavior>
-			<m_transform type="a">0.188857 0 0 0.0490196 -131.378 247.873 </m_transform>
+			<m_transform type="a">0.188857 0 0 0.0490196 -121.378 214.873 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1668,7 +1668,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.132247 0 0 0.176228 681.709 649.301 </m_transform>
+			<m_transform type="a">0.132247 0 0 0.176228 720.869 576.715 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1747,7 +1747,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124567 0 0 0.12317 681.008 275.695 </m_transform>
+			<m_transform type="a">0.124567 0 0 0.12317 745.269 72.0527 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2371,11 +2371,12 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
+			<m_arrow type="a">1 1025 409  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
+			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">-3 900 </m_SourcePort>
-			<m_TargetPort type="a">490 1068 </m_TargetPort>
+			<m_TargetPort type="a">490 1051 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -2542,9 +2543,10 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
+			<m_arrow type="a">2 1174 449  1174 407  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
+			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">1071 778 </m_SourcePort>
 			<m_TargetPort type="a">-3 859 </m_TargetPort>
 			<m_pInverseModelObject type="r">
@@ -2722,7 +2724,7 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1119 446 </m_SourcePort>
+			<m_SourcePort type="a">1094 725 </m_SourcePort>
 			<m_TargetPort type="a">-2 462 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
@@ -2839,7 +2841,7 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 144 313  144 310  </m_arrow>
+			<m_arrow type="a">2 144 280  144 310  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -3015,7 +3017,7 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">1 231 386  </m_arrow>
+			<m_arrow type="a">1 231 356  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -3429,11 +3431,12 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
+			<m_arrow type="a">2 721 418  721 459  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
+			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">1121 635 </m_SourcePort>
-			<m_TargetPort type="a">54 297 </m_TargetPort>
+			<m_TargetPort type="a">122 892 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -3488,11 +3491,12 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
+			<m_arrow type="a">2 735 299  735 418  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1126 599 </m_SourcePort>
-			<m_TargetPort type="a">243 103 </m_TargetPort>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">1126 620 </m_SourcePort>
+			<m_TargetPort type="a">8 423 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -3547,11 +3551,12 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
+			<m_arrow type="a">1 824 203  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1064 774 </m_SourcePort>
-			<m_TargetPort type="a">456 0 </m_TargetPort>
+			<m_line_style type="a">2</m_line_style>
+			<m_SourcePort type="a">1069 774 </m_SourcePort>
+			<m_TargetPort type="a">69 274 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -3604,9 +3609,10 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
+			<m_arrow type="a">1 1431 545  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
+			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">1122 606 </m_SourcePort>
 			<m_TargetPort type="a">-3 1349 </m_TargetPort>
 			<m_pInverseModelObject type="r">
@@ -3779,9 +3785,10 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
+			<m_arrow type="a">2 1130 561  1130 489  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
+			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">1064 776 </m_SourcePort>
 			<m_TargetPort type="a">156 678 </m_TargetPort>
 			<m_pInverseModelObject type="r">
