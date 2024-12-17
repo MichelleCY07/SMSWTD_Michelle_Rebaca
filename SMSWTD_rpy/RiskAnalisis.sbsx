@@ -12,7 +12,7 @@
 			<_id type="a">GUID d76eccb7-26d8-4fdb-9dbc-56581e0b2764</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RiskAnalisis</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::16:17:44</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::8:20:52</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,18 +22,17 @@
 					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::16:28:11</_modifiedTime>
+			<_modifiedTime type="a">12.17.2024::8:20:52</_modifiedTime>
 			<_lastID type="a">11</_lastID>
-			<weakCGTime type="a">12.16.2024::16:17:44</weakCGTime>
+			<weakCGTime type="a">12.17.2024::8:20:52</weakCGTime>
 			<strongCGTime type="a">12.14.2024::23:33:52</strongCGTime>
 			<_defaultComposite type="s">GUID f858c5a6-26c1-4ef3-a07f-7561d5aacef1</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.14.2024::21:2:4</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">12.17.2024::8:20:52</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 0bbf687a-45f7-469c-a100-a39c3a16f24e</value>
 				<value>GUID 1c8a926e-765c-46eb-ac26-6f9635bbc11b</value>
 				<value>GUID c9873ace-b35e-47cb-a726-3ea8e9a2767a</value>
-				<value>GUID 3e223506-15b9-4101-8dfa-32a846ecf60c</value>
 				<value>GUID f858c5a6-26c1-4ef3-a07f-7561d5aacef1</value>
 			</AggregatesList>
 		</ISubsystem>
@@ -48,10 +47,6 @@
 		<ISubsystem type="e">
 			<fileName type="a">TsunamiPrediction</fileName>
 			<_id type="a">GUID c9873ace-b35e-47cb-a726-3ea8e9a2767a</_id>
-		</ISubsystem>
-		<ISubsystem type="e">
-			<fileName type="a">AlertPredictionValidation</fileName>
-			<_id type="a">GUID 3e223506-15b9-4101-8dfa-32a846ecf60c</_id>
 		</ISubsystem>
 		<IClass type="e">
 			<_id type="a">GUID f858c5a6-26c1-4ef3-a07f-7561d5aacef1</_id>

@@ -12,7 +12,7 @@
 			<_id type="a">GUID 0bbf687a-45f7-469c-a100-a39c3a16f24e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">StormDetection</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::12:18:12</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::8:3:14</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::12:18:12</_modifiedTime>
+			<_modifiedTime type="a">12.17.2024::8:11:49</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">12.16.2024::12:18:12</weakCGTime>
+			<weakCGTime type="a">12.17.2024::8:3:14</weakCGTime>
 			<strongCGTime type="a">12.14.2024::21:4:24</strongCGTime>
 			<_defaultComposite type="s">GUID 6ea4e717-4810-41e9-aed3-aa666585684a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -710,8 +710,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::12:19:32</_modifiedTime>
-			<_lastModifiedTime type="a">12.16.2024::12:19:32</_lastModifiedTime>
+			<_modifiedTime type="a">12.17.2024::8:3:38</_modifiedTime>
+			<_lastModifiedTime type="a">12.17.2024::8:3:38</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -872,7 +872,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">7.80556 0 0 4.88636 -210 20 </m_transform>
+			<m_transform type="a">7.80556 0 0 4.95455 -210 20 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -951,7 +951,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.207565 0 0 0.121091 225 119.406 </m_transform>
+			<m_transform type="a">0.207565 0 0 0.121091 226 119.406 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1145,7 +1145,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 108 290  273 290  </m_arrow>
+			<m_arrow type="a">2 108 290  274 290  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -1301,7 +1301,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 361 310  309 310  </m_arrow>
+			<m_arrow type="a">2 361 310  310 310  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -1457,7 +1457,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 594 296  341 296  </m_arrow>
+			<m_arrow type="a">2 594 296  342 296  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -1613,7 +1613,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 797 284  377 284  </m_arrow>
+			<m_arrow type="a">2 797 284  378 284  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -1770,7 +1770,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 -115 273  230 273  </m_arrow>
+			<m_arrow type="a">2 -115 273  231 273  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -1897,7 +1897,7 @@
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 1011 271  407 271  </m_arrow>
+			<m_arrow type="a">2 1011 271  408 271  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -1906,6 +1906,35 @@
 		</CGIContainArrow>
 		<CGIAnnotation type="e">
 			<_id type="a">GUID 76b91657-02ca-411f-99c0-cf33bdb1cf1c</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">176</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -1932,7 +1961,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.173432 0 0 0.112637 865 531.662 </m_transform>
+			<m_transform type="a">0.173432 0 0 0.120812 865 531.71 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2033,6 +2062,35 @@
 		</CGIContainArrow>
 		<CGIAnnotation type="e">
 			<_id type="a">GUID feb57c58-2d49-40de-8049-c006db3a58a7</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">176</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2059,7 +2117,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.175277 0 0 0.112637 1082 531.662 </m_transform>
+			<m_transform type="a">0.175277 0 0 0.120812 1082 531.71 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2160,6 +2218,35 @@
 		</CGIContainArrow>
 		<CGIAnnotation type="e">
 			<_id type="a">GUID 686ef788-0565-4f03-be32-48a5724e2958</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Graphics</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">FitBoxToItsTextuals</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">176</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2186,7 +2273,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.142989 0 0 0.112637 1311 531.662 </m_transform>
+			<m_transform type="a">0.142989 0 0 0.120812 1311 531.71 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">

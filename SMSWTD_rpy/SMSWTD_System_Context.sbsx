@@ -12,10 +12,10 @@
 			<_id type="a">GUID 9a629f7a-0d1c-4864-bbae-5b8030cc7cbe</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD_System_Context</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::16:54:50</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::8:16:42</_modifiedTimeWeak>
 			<_modifiedTime type="a">12.16.2024::16:54:50</_modifiedTime>
 			<_lastID type="a">24</_lastID>
-			<weakCGTime type="a">12.16.2024::16:54:50</weakCGTime>
+			<weakCGTime type="a">12.17.2024::8:16:42</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:24:50</strongCGTime>
 			<_defaultComposite type="s">GUID 039a2733-7540-48f5-8b7f-955d55bbde30</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -4990,15 +4990,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.16.2024::16:58:8</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::8:16:42</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::16:58:8</_modifiedTime>
-			<weakCGTime type="a">12.16.2024::16:58:8</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::8:16:42</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">12.17.2024::8:16:42</weakCGTime>
 			<strongCGTime type="a">12.16.2024::16:54:56</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -5006,9 +5007,33 @@
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
+				<value>GUID d86379b1-d84f-4057-8853-dc8a3cfcbf9d</value>
 				<value>GUID 6525b429-15af-4464-bc7a-b1500e5ba3a0</value>
 			</AggregatesList>
 		</IClass>
+		<IInformationFlow type="e">
+			<_id type="a">GUID d86379b1-d84f-4057-8853-dc8a3cfcbf9d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">MeteorologicalAgencies_Validate Alert</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::8:16:42</_modifiedTime>
+			<end1_ type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 39af8f9c-5d05-4065-a07c-5d6d36f2cc98</_hid>
+				</IHandle>
+			</end1_>
+			<end2_ type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Validate Alert</_hname>
+					<_hid type="a">GUID 3e2fc6a5-32e4-4852-aad3-06970ba19e79</_hid>
+				</IHandle>
+			</end2_>
+			<direction_ type="a">toEnd2</direction_>
+		</IInformationFlow>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 6525b429-15af-4464-bc7a-b1500e5ba3a0</_id>
 			<_myState type="a">10240</_myState>
