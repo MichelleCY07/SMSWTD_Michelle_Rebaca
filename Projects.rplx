@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IWorkspace type="e">
+			<m_SavedActiveProjectsName type="a">SMSWTD</m_SavedActiveProjectsName>
+			<_id type="a">GUID 3457ad67-38a8-4c79-9aae-f523a50626da</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Projects</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:14:49</_modifiedTime>
+			<AggregatesList type="e">
+				<value>GUID 6abf5301-ffe3-479d-9512-b243c425cc6b</value>
+				<value>GUID cc555c18-9d18-4943-a534-fb023883c2ec</value>
+			</AggregatesList>
+		</IWorkspace>
+		<IProject type="e">
+			<fileName type="a">SMSWTD</fileName>
+			<_persistAs type="a">C:\Users\20245165\Documents\Lectures\SysML_Projects\SMSWTD_Michelle_Rebeca\SMSWTD</_persistAs>
+			<_id type="a">GUID 6abf5301-ffe3-479d-9512-b243c425cc6b</_id>
+		</IProject>
+		<IProject type="e">
+			<fileName type="a">SMSWTD_REBECA</fileName>
+			<_persistAs type="a">C:\Users\20245165\Documents\Lectures\SysML_Projects\SMSWTD_Michelle_Rebeca\SMSWTD\SMSWTD_REBECA</_persistAs>
+			<_id type="a">GUID cc555c18-9d18-4943-a534-fb023883c2ec</_id>
+		</IProject>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
