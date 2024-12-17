@@ -12,7 +12,7 @@
 			<_id type="a">GUID 4ff16773-2c14-4b27-959e-c2ab3e630e63</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DataGathering</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::15:18:53</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::12:56:2</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::16:28:11</_modifiedTime>
+			<_modifiedTime type="a">12.17.2024::12:59:4</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">12.16.2024::15:18:53</weakCGTime>
+			<weakCGTime type="a">12.17.2024::12:56:2</weakCGTime>
 			<strongCGTime type="a">12.16.2024::10:43:15</strongCGTime>
 			<_defaultComposite type="s">GUID bf39ab9c-7919-4b13-83e6-b10c26f62aeb</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -523,8 +523,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::15:19:22</_modifiedTime>
-			<_lastModifiedTime type="a">12.16.2024::15:19:22</_lastModifiedTime>
+			<_modifiedTime type="a">12.17.2024::12:57:20</_modifiedTime>
+			<_lastModifiedTime type="a">12.17.2024::12:57:20</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2896,14 +2896,14 @@
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
 					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
-					<_hname type="a">Receive Aircraft Information</_hname>
+					<_hname type="a">Receive  Sensors Information</_hname>
 					<_hid type="a">GUID 28c806c5-d8e3-4c4f-9951-cdbcd156b2bc</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 87760666-ef0a-422f-806a-c9ba057583cb</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">SMSWTD_System::Analysis::Use_Cases::Receive Aircraft Information</m_str>
+					<m_str type="a">SMSWTD_System::Analysis::Use_Cases::Receive  Sensors Information</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">

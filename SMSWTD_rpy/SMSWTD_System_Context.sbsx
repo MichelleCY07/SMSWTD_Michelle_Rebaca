@@ -12,10 +12,10 @@
 			<_id type="a">GUID 9a629f7a-0d1c-4864-bbae-5b8030cc7cbe</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SMSWTD_System_Context</_name>
-			<_modifiedTimeWeak type="a">12.17.2024::8:16:42</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::16:54:50</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.17.2024::12:41:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::12:59:4</_modifiedTime>
 			<_lastID type="a">24</_lastID>
-			<weakCGTime type="a">12.17.2024::8:16:42</weakCGTime>
+			<weakCGTime type="a">12.17.2024::12:41:23</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:24:50</strongCGTime>
 			<_defaultComposite type="s">GUID 039a2733-7540-48f5-8b7f-955d55bbde30</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -669,7 +669,7 @@
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 			<frameset type="a">&lt;frameset rows=100%25&gt;
-&lt;frame name=StereotypeBitmap,C:\Users\20245165\Documents\Lectures\SysML_Projects\SMSWTD_Michelle_Rebaca\SMSWTD\SystemPicture.jpg&gt;</frameset>
+&lt;frame name=StereotypeBitmap,C:\Users\20245165\AppData\Local\Temp/GUID$SPACE75d07495-7a45-461b-a551-aac67f42c575.jpg&gt;</frameset>
 			<Attrs type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -4584,15 +4584,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::14:4:42</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::12:58:18</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::14:4:42</_modifiedTime>
-			<weakCGTime type="a">12.13.2024::14:4:42</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::12:58:18</_modifiedTime>
+			<weakCGTime type="a">12.17.2024::12:58:18</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:44:10</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4601,6 +4601,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 350d5400-8686-47c5-97ef-a768da337dd7</value>
+				<value>GUID 42adb5b3-dff7-49b0-be06-64de2138ef7b</value>
 			</AggregatesList>
 		</IClass>
 		<IAssociationEnd type="e">
@@ -4625,6 +4626,35 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 42adb5b3-dff7-49b0-be06-64de2138ef7b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsReceive  Sensors Information</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::12:58:18</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Receive  Sensors Information</_hname>
+					<_hid type="a">GUID 28c806c5-d8e3-4c4f-9951-cdbcd156b2bc</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Receive  Sensors Information</_hclass>
+					<_hname type="a">itsSatelliteSystems</_hname>
+					<_hid type="a">GUID 30a5f27e-5a09-4040-9028-f6c4d1870ba4</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID 29cc1108-ad68-41d4-87a0-df4d13534db4</_id>
 			<_myState type="a">8192</_myState>
@@ -4642,15 +4672,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::14:4:52</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::12:41:23</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::14:4:52</_modifiedTime>
-			<weakCGTime type="a">12.13.2024::14:4:52</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::12:41:23</_modifiedTime>
+			<weakCGTime type="a">12.17.2024::12:41:23</weakCGTime>
 			<strongCGTime type="a">12.13.2024::14:3:35</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4659,6 +4689,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 5949afaa-a7b5-4bb4-b59e-b918ac9422bc</value>
+				<value>GUID f1eaffb2-8ceb-4552-b4a2-afc06ebfd6dd</value>
 			</AggregatesList>
 		</IClass>
 		<IAssociationEnd type="e">
@@ -4683,6 +4714,35 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f1eaffb2-8ceb-4552-b4a2-afc06ebfd6dd</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsReceive  Sensors Information</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::12:57:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Receive  Sensors Information</_hname>
+					<_hid type="a">GUID 28c806c5-d8e3-4c4f-9951-cdbcd156b2bc</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Receive  Sensors Information</_hclass>
+					<_hname type="a">itsAircraftsStormMeasurementSystem</_hname>
+					<_hid type="a">GUID f8765be0-65a8-466c-8484-5722ebe40d88</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID 09afce52-f90c-4518-823f-e977152cd20c</_id>
 			<_myState type="a">8192</_myState>
@@ -4700,15 +4760,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::14:4:47</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::12:58:22</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::14:4:47</_modifiedTime>
-			<weakCGTime type="a">12.13.2024::14:4:47</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::12:58:22</_modifiedTime>
+			<weakCGTime type="a">12.17.2024::12:58:22</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:46:24</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4717,6 +4777,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 412aaf3a-1354-4c55-8cbb-902c9ce24e4a</value>
+				<value>GUID 476c9e04-e2a1-4de3-8c91-1737bb46c2f6</value>
 			</AggregatesList>
 		</IClass>
 		<IAssociationEnd type="e">
@@ -4741,6 +4802,35 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 476c9e04-e2a1-4de3-8c91-1737bb46c2f6</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsReceive  Sensors Information</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::12:58:22</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Receive  Sensors Information</_hname>
+					<_hid type="a">GUID 28c806c5-d8e3-4c4f-9951-cdbcd156b2bc</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Receive  Sensors Information</_hclass>
+					<_hname type="a">itsOceanicDisruptionsMeasurementSystem</_hname>
+					<_hid type="a">GUID 8607a2db-24c2-476c-ba60-a7381a026dbe</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID dc272e13-7c30-4082-a806-f18c3603533e</_id>
 			<_myState type="a">8192</_myState>
@@ -4758,15 +4848,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::14:4:8</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:55</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::14:4:8</_modifiedTime>
-			<weakCGTime type="a">12.13.2024::14:4:8</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::13:3:55</_modifiedTime>
+			<weakCGTime type="a">12.17.2024::13:3:55</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:47:59</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4775,6 +4865,8 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 85f56871-ea17-4923-9530-a3f9c4f1ec5f</value>
+				<value>GUID 882f9fe7-7c9b-4c97-bf05-b45e24509eb7</value>
+				<value>GUID 8152fdf7-526f-45a4-b1e9-f6dd61c6f75f</value>
 			</AggregatesList>
 		</IClass>
 		<IAssociationEnd type="e">
@@ -4799,6 +4891,57 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 882f9fe7-7c9b-4c97-bf05-b45e24509eb7</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCivilians</_name>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:3:42</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID c8a604f2-8acb-4cab-a017-b10105629293</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 0c2ea0aa-e8d8-40e3-b114-17b4a95b6354</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 8152fdf7-526f-45a4-b1e9-f6dd61c6f75f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCommunicate Alert</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:3:55</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Communicate Alert</_hname>
+					<_hid type="a">GUID 4273e8c1-a447-49dc-b5f9-83af0b6067ad</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Communicate Alert</_hclass>
+					<_hname type="a">itsTVCommunicationSystem</_hname>
+					<_hid type="a">GUID 99df9356-ac10-4d68-83eb-6fdfa4bd07ae</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID 9ef0996f-e204-4831-bd40-bf96b970af77</_id>
 			<_myState type="a">8192</_myState>
@@ -4816,15 +4959,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::14:4:35</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:58</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::14:4:35</_modifiedTime>
-			<weakCGTime type="a">12.13.2024::14:4:35</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::13:3:58</_modifiedTime>
+			<weakCGTime type="a">12.17.2024::13:3:58</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:48:15</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4833,6 +4976,8 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 45103be8-61b9-41dd-abf9-b90c416fc2c5</value>
+				<value>GUID 792aaacd-9cd7-46ab-a3f1-0bb201286b32</value>
+				<value>GUID d68f3ae2-b008-4c8a-b730-5600752f541a</value>
 			</AggregatesList>
 		</IClass>
 		<IAssociationEnd type="e">
@@ -4857,6 +5002,57 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 792aaacd-9cd7-46ab-a3f1-0bb201286b32</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCivilians</_name>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:3:47</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID c8a604f2-8acb-4cab-a017-b10105629293</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 07bb5e7a-8602-4f64-a8c7-910689b10e55</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d68f3ae2-b008-4c8a-b730-5600752f541a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCommunicate Alert</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:3:58</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Communicate Alert</_hname>
+					<_hid type="a">GUID 4273e8c1-a447-49dc-b5f9-83af0b6067ad</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Communicate Alert</_hclass>
+					<_hname type="a">itsRadioCommunicationSystem</_hname>
+					<_hid type="a">GUID a49e220d-8556-4fc7-94b4-9847adabd73d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IClass type="e">
 			<_id type="a">GUID e52cc20d-8943-4529-94c2-fa41cb56c3a1</_id>
 			<_myState type="a">8192</_myState>
@@ -4874,15 +5070,15 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.13.2024::14:4:38</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::13:4:1</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::14:4:38</_modifiedTime>
-			<weakCGTime type="a">12.13.2024::14:4:38</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::13:4:1</_modifiedTime>
+			<weakCGTime type="a">12.17.2024::13:4:1</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:53:39</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4891,6 +5087,8 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 8ec3dcd4-8c6f-430e-bb5f-fa4c083c62e6</value>
+				<value>GUID 60106835-b267-4f54-9851-6432581c8d1c</value>
+				<value>GUID 0e160fd2-4027-4bcd-8d01-f3f965407077</value>
 			</AggregatesList>
 		</IClass>
 		<IAssociationEnd type="e">
@@ -4910,6 +5108,57 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID 625f8d1d-9e45-4881-842e-9971b558b4b2</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 60106835-b267-4f54-9851-6432581c8d1c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCivilians</_name>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:3:50</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID c8a604f2-8acb-4cab-a017-b10105629293</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID afcbc84e-5536-4760-b9cf-b92e8f3311e2</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0e160fd2-4027-4bcd-8d01-f3f965407077</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCommunicate Alert</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:4:1</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Communicate Alert</_hname>
+					<_hid type="a">GUID 4273e8c1-a447-49dc-b5f9-83af0b6067ad</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Communicate Alert</_hclass>
+					<_hname type="a">itsCellPhoneSystem</_hname>
+					<_hid type="a">GUID 9be94235-4446-43c1-a0bb-43bea81e600a</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
@@ -4990,16 +5239,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">12.17.2024::8:16:42</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::13:2:44</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.17.2024::8:16:42</_modifiedTime>
+			<_modifiedTime type="a">12.17.2024::13:2:44</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">12.17.2024::8:16:42</weakCGTime>
+			<weakCGTime type="a">12.17.2024::13:2:44</weakCGTime>
 			<strongCGTime type="a">12.16.2024::16:54:56</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -5007,33 +5256,12 @@
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
-				<value>GUID d86379b1-d84f-4057-8853-dc8a3cfcbf9d</value>
 				<value>GUID 6525b429-15af-4464-bc7a-b1500e5ba3a0</value>
+				<value>GUID 927a7865-1760-4602-998d-f9b9cce94a3e</value>
+				<value>GUID 717de8c5-d78d-43e1-be3c-e5203216aa39</value>
+				<value>GUID 7a0b4b14-0276-4084-b7ff-624d2566b48b</value>
 			</AggregatesList>
 		</IClass>
-		<IInformationFlow type="e">
-			<_id type="a">GUID d86379b1-d84f-4057-8853-dc8a3cfcbf9d</_id>
-			<_myState type="a">2048</_myState>
-			<_name type="a">MeteorologicalAgencies_Validate Alert</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.17.2024::8:16:42</_modifiedTime>
-			<end1_ type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IClass</_hm2Class>
-					<_hid type="a">GUID 39af8f9c-5d05-4065-a07c-5d6d36f2cc98</_hid>
-				</IHandle>
-			</end1_>
-			<end2_ type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
-					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
-					<_hname type="a">Validate Alert</_hname>
-					<_hid type="a">GUID 3e2fc6a5-32e4-4852-aad3-06970ba19e79</_hid>
-				</IHandle>
-			</end2_>
-			<direction_ type="a">toEnd2</direction_>
-		</IInformationFlow>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 6525b429-15af-4464-bc7a-b1500e5ba3a0</_id>
 			<_myState type="a">10240</_myState>
@@ -5056,19 +5284,106 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 927a7865-1760-4602-998d-f9b9cce94a3e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsValidate Alert</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::12:42:19</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Validate Alert</_hname>
+					<_hid type="a">GUID 3e2fc6a5-32e4-4852-aad3-06970ba19e79</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Validate Alert</_hclass>
+					<_hname type="a">itsMeteorologicalAgencies</_hname>
+					<_hid type="a">GUID 877be0ad-a69e-4aae-b5d9-dfc870521007</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 717de8c5-d78d-43e1-be3c-e5203216aa39</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerate a report</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::12:42:33</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Generate a report</_hname>
+					<_hid type="a">GUID 5cdbc760-e22d-4bfe-9ec1-de69630dda3e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Generate a report</_hclass>
+					<_hname type="a">itsMeteorologicalAgencies</_hname>
+					<_hid type="a">GUID c57d4a86-0011-41f3-b530-be43d12bcfd9</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 7a0b4b14-0276-4084-b7ff-624d2566b48b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsStream RT measurements</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:2:44</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Stream RT measurements</_hname>
+					<_hid type="a">GUID a6d24064-e357-4754-81e3-df5bfd1cf9fb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Stream RT measurements</_hclass>
+					<_hname type="a">itsMeteorologicalAgencies</_hname>
+					<_hid type="a">GUID b65bb1c3-5429-4b89-aadb-9d9cf3982e89</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID c8a604f2-8acb-4cab-a017-b10105629293</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Civilians</_name>
-			<_modifiedTimeWeak type="a">12.13.2024::13:58:55</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:50</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.13.2024::13:58:55</_modifiedTime>
-			<weakCGTime type="a">12.13.2024::13:58:55</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::13:3:50</_modifiedTime>
+			<weakCGTime type="a">12.17.2024::13:3:50</weakCGTime>
 			<strongCGTime type="a">12.13.2024::13:26:23</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -5077,6 +5392,9 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 390dbb76-9266-453f-afa1-62fca014fcd4</value>
+				<value>GUID 0c2ea0aa-e8d8-40e3-b114-17b4a95b6354</value>
+				<value>GUID 07bb5e7a-8602-4f64-a8c7-910689b10e55</value>
+				<value>GUID afcbc84e-5536-4760-b9cf-b92e8f3311e2</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -5101,19 +5419,85 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 0c2ea0aa-e8d8-40e3-b114-17b4a95b6354</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsTVCommunicationSystem</_name>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:3:42</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID dc272e13-7c30-4082-a806-f18c3603533e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 882f9fe7-7c9b-4c97-bf05-b45e24509eb7</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 07bb5e7a-8602-4f64-a8c7-910689b10e55</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRadioCommunicationSystem</_name>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:3:47</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 9ef0996f-e204-4831-bd40-bf96b970af77</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 792aaacd-9cd7-46ab-a3f1-0bb201286b32</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID afcbc84e-5536-4760-b9cf-b92e8f3311e2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCellPhoneSystem</_name>
+			<_modifiedTimeWeak type="a">12.17.2024::13:3:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:3:50</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID e52cc20d-8943-4529-94c2-fa41cb56c3a1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 60106835-b267-4f54-9851-6432581c8d1c</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID cefc24ee-defb-43e9-a54c-3760d9078a21</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Researchers</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::15:55:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::13:2:52</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 0a1e3ad2-ff1a-412f-a8db-1ef1484246fd</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.16.2024::15:55:33</_modifiedTime>
-			<weakCGTime type="a">12.16.2024::15:55:33</weakCGTime>
+			<_modifiedTime type="a">12.17.2024::13:2:52</_modifiedTime>
+			<weakCGTime type="a">12.17.2024::13:2:52</weakCGTime>
 			<strongCGTime type="a">12.16.2024::15:55:33</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -5122,6 +5506,7 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 481bdceb-6312-4ca3-96ba-cff5fba8da4d</value>
+				<value>GUID f97b984d-66ad-480d-a631-daf5b646ee17</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -5141,6 +5526,35 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID d5235af5-f318-4899-b27b-d246e6f548a7</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f97b984d-66ad-480d-a631-daf5b646ee17</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsStream RT measurements</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::13:2:52</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hname type="a">Stream RT measurements</_hname>
+					<_hid type="a">GUID a6d24064-e357-4754-81e3-df5bfd1cf9fb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Use_Cases.sbsx</_hfilename>
+					<_hsubsystem type="a">SMSWTD_System::Analysis::Use_Cases</_hsubsystem>
+					<_hclass type="a">Stream RT measurements</_hclass>
+					<_hname type="a">itsResearchers</_hname>
+					<_hid type="a">GUID 92388787-f47e-4f4b-9950-51a4f526018b</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>

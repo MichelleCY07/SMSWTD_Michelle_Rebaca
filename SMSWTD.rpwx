@@ -85,7 +85,7 @@
 								<m_nFlags type="a">2</m_nFlags>
 								<m_showCmd type="a">2</m_showCmd>
 								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">515</m_ptMinPositionY>
+								<m_ptMinPositionY type="a">357</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
 								<m_nLeft type="a">160</m_nLeft>
@@ -169,7 +169,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">-220 0 </_UpLeft>
-						<_DownRight type="a">458 334 </_DownRight>
+						<_DownRight type="a">457 334 </_DownRight>
 						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -277,7 +277,7 @@
 								<m_nFlags type="a">2</m_nFlags>
 								<m_showCmd type="a">2</m_showCmd>
 								<m_ptMinPositionX type="a">199</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">515</m_ptMinPositionY>
+								<m_ptMinPositionY type="a">357</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-9</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-38</m_ptMaxPositionY>
 								<m_nLeft type="a">64</m_nLeft>
@@ -360,15 +360,15 @@
 								<_hid type="a">GUID 375e0194-5c59-48ea-9d2f-3442314a8825</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-141 0 </_UpLeft>
-						<_DownRight type="a">1364 1223 </_DownRight>
+						<_UpLeft type="a">536 0 </_UpLeft>
+						<_DownRight type="a">1850 827 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Users\20245165\Documents\Lectures\SysML_Projects\SMSWTD_Michelle_Rebaca\SMSWTD\SMSWTD</_fullName>
+			<_fullName type="a">C:\Users\20245165\Documents\Lectures\SysML_Projects\SMSWTD_Michelle_Rebeca\SMSWTD\SMSWTD</_fullName>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
