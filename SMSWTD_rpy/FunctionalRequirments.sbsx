@@ -12,7 +12,7 @@
 			<_id type="a">GUID 35a392fd-13af-4878-b7ce-e797dc73d099</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FunctionalRequirments</_name>
-			<_modifiedTimeWeak type="a">12.17.2024::12:56:2</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::15:7:5</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.17.2024::12:59:4</_modifiedTime>
+			<_modifiedTime type="a">12.17.2024::15:7:5</_modifiedTime>
 			<_lastID type="a">26</_lastID>
-			<weakCGTime type="a">12.17.2024::12:56:2</weakCGTime>
+			<weakCGTime type="a">12.17.2024::15:7:5</weakCGTime>
 			<strongCGTime type="a">12.16.2024::10:43:15</strongCGTime>
 			<_defaultComposite type="s">GUID 45209f5b-8bae-4975-8f12-46f1a701d36e</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -68,28 +68,17 @@
 			<_id type="a">GUID 89797819-7053-451f-b2dc-36a952da96f2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">FunctionalRequirments</_name>
-			<_modifiedTimeWeak type="a">12.16.2024::10:43:15</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.16.2024::10:33:22</_modifiedTime>
+			<Annotations type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Annotations>
+			<_modifiedTimeWeak type="a">12.17.2024::15:7:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::15:7:5</_modifiedTime>
 			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
 \viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shal meet the functional requirments in order to fullfill the goal of safe of lives and properties when in the presence af a natural disaster.\kerning0\f1\fs20\par%0D
 }%0D
 </_body>
 			<reqID type="a">200</reqID>
-			<AggregatesList type="e">
-				<value>GUID 3f0fed1f-a3c4-4d13-a28d-0a427c685f2c</value>
-			</AggregatesList>
-		</IRequirement>
-		<IRequirement type="e">
-			<_id type="a">GUID 3f0fed1f-a3c4-4d13-a28d-0a427c685f2c</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">InformationProcess</_name>
-			<_modifiedTimeWeak type="a">12.14.2024::23:44:29</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.14.2024::23:25:0</_modifiedTime>
-			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall process the information in a central unit.\kerning0\f1\fs20\par%0D
-}%0D
-</_body>
-			<reqID type="a">201</reqID>
 		</IRequirement>
 		<ITag type="e">
 			<_id type="a">GUID dec40b70-8dfd-4388-b514-0bb08466d6ed</_id>

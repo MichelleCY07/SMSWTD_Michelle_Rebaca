@@ -12,7 +12,7 @@
 			<_id type="a">GUID d76eccb7-26d8-4fdb-9dbc-56581e0b2764</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RiskAnalisis</_name>
-			<_modifiedTimeWeak type="a">12.17.2024::8:20:52</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.17.2024::15:9:14</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,20 +22,33 @@
 					<_hid type="a">GUID a0556207-be2b-4e50-9be0-ffa27840b706</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">12.17.2024::8:20:52</_modifiedTime>
+			<_modifiedTime type="a">12.17.2024::15:9:14</_modifiedTime>
 			<_lastID type="a">11</_lastID>
-			<weakCGTime type="a">12.17.2024::8:20:52</weakCGTime>
+			<weakCGTime type="a">12.17.2024::15:9:14</weakCGTime>
 			<strongCGTime type="a">12.14.2024::23:33:52</strongCGTime>
 			<_defaultComposite type="s">GUID f858c5a6-26c1-4ef3-a07f-7561d5aacef1</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">12.17.2024::8:20:52</_configurationRelatedTime>
 			<AggregatesList type="e">
+				<value>GUID 3f0fed1f-a3c4-4d13-a28d-0a427c685f2c</value>
 				<value>GUID 0bbf687a-45f7-469c-a100-a39c3a16f24e</value>
 				<value>GUID 1c8a926e-765c-46eb-ac26-6f9635bbc11b</value>
 				<value>GUID c9873ace-b35e-47cb-a726-3ea8e9a2767a</value>
 				<value>GUID f858c5a6-26c1-4ef3-a07f-7561d5aacef1</value>
 			</AggregatesList>
 		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 3f0fed1f-a3c4-4d13-a28d-0a427c685f2c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RiskAnalisis</_name>
+			<_modifiedTimeWeak type="a">12.17.2024::15:9:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.17.2024::15:9:14</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs28 The SMSWTD shall process the information in a central unit.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">201</reqID>
+		</IRequirement>
 		<ISubsystem type="e">
 			<fileName type="a">StormDetection</fileName>
 			<_id type="a">GUID 0bbf687a-45f7-469c-a100-a39c3a16f24e</_id>
