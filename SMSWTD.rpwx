@@ -360,9 +360,9 @@
 								<_hid type="a">GUID 375e0194-5c59-48ea-9d2f-3442314a8825</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">345 0 </_UpLeft>
-						<_DownRight type="a">1659 827 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<_UpLeft type="a">266 0 </_UpLeft>
+						<_DownRight type="a">1580 827 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
